@@ -10,5 +10,4 @@ and i override the functions in each class So it fits every type
 if we woants to add new types of monster we just override the functions inside it
 
 
-![image](https://user-images.githubusercontent.com/100956629/194719174-c799fdac-949c-495b-98cf-e3d250356a68.png)
-
+![image](https://user-images.githubusercontent.com/100956629/194745465-c9ceaad5-86d4-4470-a474-4c277420ea84.png)
