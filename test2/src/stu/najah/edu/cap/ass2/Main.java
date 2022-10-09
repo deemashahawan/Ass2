@@ -4,8 +4,9 @@ public class Main {
     public static void main(String[] args) {
 
         Entity e=new Entity();
-        System.out.println("new player: " );
+       //new player
         e.getplayers().add(new Player());
+        //NEW monster
         e.getmonsters().add(new Monster());
 
 

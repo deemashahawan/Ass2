@@ -3,7 +3,7 @@ package stu.najah.edu.cap.ass2;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Entity {
+public class Entity implements MakeRender,MakeMove {
 
       public ArrayList<Monster> getmonsters() {
           return monsters;
