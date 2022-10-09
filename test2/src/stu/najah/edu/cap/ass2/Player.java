@@ -9,4 +9,9 @@ public class Player extends Entity{
     public void render() {
         System.out.println("player render");
     }
+    public void ToString() {
+        System.out.println( "Player{ move: "); move();
+        System.out.println("render: ");render();
+        System.out.println("}");
+    }
 }
